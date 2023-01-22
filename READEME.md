@@ -1,4 +1,4 @@
-# Sum Limit Instructions  
+# Sees Candy Instructions  
 ```md 
 We want to pack up a box of custom chocolate bars.
 We have some small chocolates (1 gram each) and some large chocolates (5 grams each).
