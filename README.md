@@ -15,3 +15,4 @@ Print -1 if it can't be done.
 
 # Screen Shot of the Test Output 
 
+<img width="582" alt="Sees_Candy" src="https://user-images.githubusercontent.com/107374333/213938394-f4b0fe9c-a674-468c-988c-96a08a9fc7eb.png">
